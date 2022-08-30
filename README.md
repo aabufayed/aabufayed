@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/005/155/686/small/arabesque-web-horizontal-banner-camel-and-palm-tree-silhouette-beautiful-sunlight-sunset-sunrise-islamic-background-template-illustration-vector.jpg)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm A.abufayed</h1>
 <h3 align="center">A passionate App developer.</h3>
 
