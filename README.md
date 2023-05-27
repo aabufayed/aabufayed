@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Android/IOS**
 
-- 💬 Ask me about **Flutter/Dart/firebase/nodeJS/**
+- 💬 Ask me about **Flutter/Dart/firebase/**
 
 - 📫 How to reach me **LinkedIn [https://www.linkedin.com/in/ahmed-abu-fayed-a7162522a/]**
 
